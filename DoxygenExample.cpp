@@ -50,7 +50,7 @@
 typedef enum BoxEnum_enum {
 	BOXENUM_FIRST,  /**< Some documentation for first. */
 	BOXENUM_SECOND, /**< Some documentation for second. */
-	BOXENUM_ETC     /**< This is the 3rd documentaion
+	BOXENUM_ETC     /**< This is the 3rd documentaion */
 } BoxEnum;
 
 /**
